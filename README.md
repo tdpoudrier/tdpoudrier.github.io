@@ -1,4 +1,4 @@
-# tdpoudrier.github.io
+# [tdpoudrier.github.io](https://tdpoudrier.github.io/)
 First GitHub page, for CS-HU 250
 
 ## Styling Text
@@ -13,14 +13,14 @@ Superscripts follow the same format as subscripts but with sup, for example c<su
 right angle braket makes a quote
 >This is a quote
 
-##Quoting Code
+## Quoting Code
 use backticks to section code and have indents
-###Basic Git commands
+### Basic Git commands
 ```
 git status
 git add
 git commit
 ```
-##Links
+## Links
 This page was built using [Github Pages](https://pages.github.com/)
 This page is hosted at [tdpoudrier.github.io](https://github.com/tdpoudrier/tdpoudrier.github.io/)
